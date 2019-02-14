@@ -1,0 +1,24 @@
+{
+  "name": "bamazon-customer",
+  "version": "1.0.0",
+  "description": "homework solution for bamazon customer view",
+  "main": "bamazonCust.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeScholz/bamazon-customer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeScholz/bamazon-customer/issues"
+  },
+  "homepage": "https://github.com/JoeScholz/bamazon-customer#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
