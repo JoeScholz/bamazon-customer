@@ -30,19 +30,19 @@ function fetchProducts(){
     })
 }
 
-function promtCust(){
-    inquirer.prompt([
-        {
-            type: "input",
-            name: "itemId",
-            message: "Product Id?"
-        },
-        {
+// function promtCust(){
+//     inquirer.prompt([
+//         {
+//             type: "input",
+//             name: "itemId",
+//             message: "Product Id?"
+//         },
+//         {
 
-        }
-    ]).then(function(response){
-        console.log(response.itemId);
-    })
-}
+//         }
+//     ]).then(function(response){
+//         console.log(response.itemId);
+//     })
+// }
 
 // 
