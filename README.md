@@ -14,4 +14,4 @@ product display:
 
 customer prompt:
 ![prompt]()
-![prompt]()
+![prompt](images/promptTerminal.PNG)
