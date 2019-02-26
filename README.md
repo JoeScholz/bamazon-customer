@@ -10,3 +10,4 @@ This node and SQL bassed app will allow customers to choose products from a SQL 
 
 product display:
 ![display](images/bamazonProductDisplay.PNG)
+![display](images/terminalProductDisplay.PNG)
