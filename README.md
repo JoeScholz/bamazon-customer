@@ -1,3 +1,3 @@
 # bamazon-customer
 
-homework solution for bamazon customer view
+A node and SQL based store app for customers to select products.
